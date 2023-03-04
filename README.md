@@ -5,8 +5,8 @@ Repositório do Bootcamp da DIO em parceria com o Banco Pan sobre JAVA
 
 #### Links Úteis:
 
-[Site da Capgemini](https://www.capgemini.com/br-pt/)
+[Site da Dio.me](https://web.dio.me/)
 
-[Site do Programa Start by Capgemini](https://www.startcapgemini.com.br/)
+[Site do Banco PAN](https://www.bancopan.com.br/)
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
