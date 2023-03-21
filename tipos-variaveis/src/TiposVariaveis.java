@@ -15,3 +15,4 @@ public class TiposVariaveis {
         System.out.println("O valor de PI é " + PI);
     }
 }
+    
